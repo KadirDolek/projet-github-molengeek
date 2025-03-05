@@ -1,0 +1,5 @@
+.sec1 .sec2 .sec3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
