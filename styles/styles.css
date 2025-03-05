@@ -1,0 +1,8 @@
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer>div>h6, p {
+    margin: 0px;
+}
