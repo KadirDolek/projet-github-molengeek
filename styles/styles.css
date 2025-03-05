@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 .sec1, .sec2, .sec3 {
     display: flex;
-    justify-content: center; /* Centrer les cartes horizontalement */
-    gap: 40px; /* Ajoute un écart entre les cartes */
+    justify-content: center; 
 }
 .sec1{
     background-color: red;
@@ -17,7 +15,7 @@
 img{
     width: 200px;
     height: 300px;
-=======
+}
 footer {
     display: flex;
     justify-content: space-around;
@@ -26,5 +24,5 @@ footer {
 
 footer>div>h6, p {
     margin: 0px;
->>>>>>> footer
 }
+    
