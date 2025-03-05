@@ -1,0 +1,19 @@
+.sec1, .sec2, .sec3 {
+    display: flex;
+    justify-content: center; /* Centrer les cartes horizontalement */
+    gap: 40px; /* Ajoute un écart entre les cartes */
+}
+.sec1{
+    background-color: red;
+}
+.sec2{
+    background-color: rgb(121, 77, 106) ;
+}
+.sec3{
+    background-color: rgb(180, 156, 18) ;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+}
