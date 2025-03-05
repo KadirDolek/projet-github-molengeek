@@ -1,6 +1,7 @@
 footer {
     display: flex;
     justify-content: space-around;
+    background-color: bisque;
 }
 
 footer>div>h6, p {
