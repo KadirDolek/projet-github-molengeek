@@ -25,4 +25,10 @@ footer {
 footer>div>h6, p {
     margin: 0px;
 }
+
+.container-fluid{
+    background-color: rgb(34, 64, 182);
+}
+
+
     
