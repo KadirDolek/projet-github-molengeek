@@ -1,6 +1,7 @@
 .sec1, .sec2, .sec3 {
     display: flex;
     justify-content: center; 
+    gap: 30px;
 }
 .sec1{
     background-color: red;
